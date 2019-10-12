@@ -1,7 +1,7 @@
-# Scanner for Windows 10
 <table width="100%">
   <tr>
     <td width="70%">
+      <h1>Scanner for Windows 10</h1>
       A scanner app built for the Universal Windows Platform
       <br><br>
       <a href="https://github.com/simon-knuth/scanner/" class="btn" style='background-image:linear-gradient(120deg, rgb(0, 123, 148), rgb(0, 149, 74))'>View on GitHub</a>
