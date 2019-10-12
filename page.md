@@ -7,7 +7,8 @@
     </td>
   </tr>
 </table>
-<br><h2>Features</h2>
+<br>
+<h2>Features</h2>
 <ul>
   <li>Preview after scan</li>
   <li>Built-in image editing
