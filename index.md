@@ -8,7 +8,7 @@
       <a href="http://simon-knuth.github.io/scanner" class="btn" style='background-image:linear-gradient(120deg, rgb(0, 123, 148), rgb(0, 149, 74))'>Website</a>
     </td>
     <td width="30%">
-      <a href="https://www.microsoft.com/store/apps/9N438MZHD3ZF"><img src="https://i.imgur.com/aAWYhvm.png"/>
+      <a href="https://www.microsoft.com/store/apps/9N438MZHD3ZF"><img src="https://i.imgur.com/aAWYhvm.png"/></a>
     </td>
   </tr>
 </table>
