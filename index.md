@@ -1,6 +1,6 @@
 # Scanner for Windows 10
 A scanner app built for the Universal Windows Platform
-<a href="https://github.com/pages-themes/cayman/zipball/master" class="btn">Button</a>
+<a href="https://github.com/pages-themes/cayman/zipball/master" class="btn" style='background-image:linear-gradient(120deg, rgb(0, 74, 149), rgb(0, 149, 74))'>Button</a>
 
 <image src='https://i.imgur.com/ghnN0UV.png'/>
 <table width="100%">
