@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-	<image src='https://i.imgur.com/ghnN0UV.png'/>
+<image src='https://i.imgur.com/ghnN0UV.png'/>
 <table width="100%">
   <tr>
     <td width="15%"><image src='https://i.imgur.com/4fMgKKY.png'/></td>
@@ -76,5 +73,3 @@ Submit completed translations to scanner-win10@outlook.com with a meaningful sub
 - [x] Whether you would like to be contacted if new/changed strings need to be translated in the future
 
 Thank you!
-</body>
-</html>
