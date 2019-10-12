@@ -28,7 +28,8 @@
   <li>WinUI 2.2</li>
 </ul>
 
-<br><h2>Screenshots</h2>
+<br>
+<h2>Screenshots</h2>
 <table width="100%">
   <tr>
     <td width="50%"><image src='https://i.imgur.com/zsU3aEHh.png'/></td>
@@ -40,7 +41,8 @@
   </tr>
 </table>
 
-<br><h2>Download</h2>
+<br>
+<h2>Download</h2>
 <table width="100%">
   <tr>
     <td width="70%"> <b>The stable version of the app is available in the Microsoft Store.</b><br>You can also view the source code of both stable and WIP versions on GitHub. Download/clone the code using the green button in the top-right corner.</td>
@@ -49,12 +51,14 @@
   </tr>
 </table>
 
-<br><h2>Credits</h2>
+<br>
+<h2>Credits</h2>
 Banner (base picture): [Christian Lambert](https://unsplash.com/@_christianlambert)  
 Banner (laptop wallpaper): [Aleksandar Pasaric](https://www.pexels.com/@apasaric)  
 Screenshots (background wallpaper): [Artem Beliaikin](https://www.pexels.com/@belart84)
 
-<br><h2>Translations</h2>
+<br>
+<h2>Translations</h2>
 Currently supported languages are:
 <ul>
   <li>English (EN)</li>
