@@ -68,7 +68,7 @@ The currently supported languages are:
   <li>German (DE)</li>
 </ul>  
 
-See [this page](help-translate.md), if you'd like to help improve existing transaltions or add new ones.
+See [this page](help-translate.md), if you'd like to help improve existing translations or add new ones.
 
 <br/>
 <h2>Privacy policy</h2>
