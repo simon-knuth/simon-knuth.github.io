@@ -1,3 +1,4 @@
+<a href="http://simon-knuth.github.io/scanner" class="btn" style='background:#000000; color:#FFFFFF; text-align:center'>GitHub Profile</a>
 <table width="100%">
   <tr>
     <td width="70%">
