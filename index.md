@@ -1,4 +1,4 @@
-<a href="http://simon-knuth.github.io/scanner" class="btn" style='background:#000000; color:#FFFFFF; margin:0 auto'>GitHub Profile</a>
+<a href="https://github.com/simon-knuth/" class="btn" style='background:#000000; color:#FFFFFF; margin:0 auto'>GitHub Profile</a>
 <table width="100%">
   <tr>
     <td width="70%">
