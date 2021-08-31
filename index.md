@@ -10,7 +10,7 @@
       <br><br>
       <div style="display:flex; align-items:flex-end">
         <a href="http://simon-knuth.github.io/scanner" class="btn" style="background:#00954A;margin-bottom: 6px">Website</a>
-        <a href="https://github.com/simon-knuth/scanner/index" class="btn" style="background:#00954A;margin-bottom: 6px">View on GitHub</a>
+        <a href="https://github.com/simon-knuth/scanner" class="btn" style="background:#00954A;margin-bottom: 6px">View on GitHub</a>
         <a href="https://www.microsoft.com/store/apps/9N438MZHD3ZF" style="margin-left:16px"><img src="https://i.imgur.com/aAWYhvm.png" height="52.39px" style="border-radius:0.3rem" alt="Microsoft Store App Download Badge"></a>
       </div>
     </td>
