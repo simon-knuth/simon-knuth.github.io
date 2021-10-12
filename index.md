@@ -16,3 +16,7 @@
     </td>
   </tr>
 </table>
+<br/>
+
+### Get in touch
+Reach out to me on Twitter <a href="https://twitter.com/simon_knuth">@simon_knuth</a> or send an email to simon-knuth-dev@outlook.com. Please note that these are for personal requests, **I'm not able to offer technical support for my projects**. You can use GitHub issues to raise bugs or start a discussion.
